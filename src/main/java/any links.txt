@@ -1,0 +1,3 @@
+https://www.saucedemo.com/
+https://demoqa.com
+https://www.selenium.dev/selenium/web/web-form.html
